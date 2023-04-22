@@ -5,8 +5,6 @@ The software just says "Hello World".
 
 I have made this program to practice creating README files. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 ## Development Environment
 
 I used VSCode as a software environment and used Git as a version control system. I uploaded this folder to GitHub.
